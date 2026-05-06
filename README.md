@@ -1,4 +1,4 @@
-<h1> <img src = "https://canva.link/a2l9dl3vh0xlc3m" width = "30" height = "30"> The Cyclistic Case Study </h1>
+<h1> The Cyclistic Case Study </h1>
 
 ## 💬 Introduction ##
 The **Cyclistic Case Study** is a capstone project under the **Google Data Analytics Professional Certificate** on Coursera. In this case study, I plan to employ the 6 stages of the analytic process that is, *ask, prepare, process, analyze, share and act* to engage with the data effectively. 
