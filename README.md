@@ -28,10 +28,21 @@ The marketing director strongly believes that maximizing annual memberships is t
 
 ### 3. Process ###
 **2025 data** forms the foundation of this analysis and the processing of data follows these steps:
-1) Combining Data
+1) [Combining Data](1-Combining-Data.sql)
 2) Exploring Data
 3) Cleaning Data
 4) Analyzing Data
+
+**Combining Data**
+
+The Jan-Dec 2025 tables were all integrated into one new table. The final table is made up of 5,552,994 rows.
+
+**Exploring Data**
+
+**Cleaning Data**
+
+**Analyzing Data**
+
 
 ### 4. Analyze ###
 
